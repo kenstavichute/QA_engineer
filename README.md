@@ -7,7 +7,10 @@
 ## Обо мне:
 Привет!  
 Меня зовут Елена, я начинающий тестировщик <img height="20" src="https://github.com/kenstavichute/QA_engineer/assets/146355792/4e0ab703-6a3c-459b-9568-dd087620d7cf">   
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.  
+Связаться со мной:   
+[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/elena_kenza) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/elena-kenstavichute/)
    
 ## Навыки и технологии
 
@@ -45,7 +48,7 @@
 
 > [Ссылка на проект](https://kenstavichute.notion.site/4f214c2852eb46be90395f1f22fd7068?pvs=4)
    
-#### Проект 3: тестирование функционала видеоуроков и взаимодействия мобильного приложения для ученика и вэб-приложения для преподавателя Skyeng
+#### Проект 4: тестирование функционала видеоуроков и взаимодействия мобильного приложения для ученика и вэб-приложения для преподавателя Skyeng
 Что нужно было сделать :
 1. Составить тест-план
 3. Подготовить тестовую документаццию
@@ -54,3 +57,10 @@
 
 > [Ссылка на проект](https://kenstavichute.notion.site/2e26b674474345b59d3284b5e5dedeed?pvs=4)
    
+#### Проект 5: тестирование API с умными заглушками с помощью Mockoon
+Что нужно было сделать :
+1. Создать коллекцию в Postman для приемочного тест-кейса сайта [ToDo List](https://sky-todo-list.herokuapp.com/)
+2. Создать умную заглушку в Mockoon для задач
+3. Провести тестирование
+   
+> [Ссылка на проект](https://github.com/kenstavichute/QA_engineer/blob/main/Project-3/Project3.md)
