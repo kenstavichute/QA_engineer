@@ -1,0 +1,160 @@
+{
+  "uuid": "d8340641-4ac9-4290-b37e-8d5abfc4af58",
+  "lastMigration": 27,
+  "name": "ToDoList",
+  "endpointPrefix": "",
+  "latency": 0,
+  "port": 3001,
+  "hostname": "",
+  "folders": [],
+  "routes": [
+    {
+      "uuid": "90dae1fd-ac59-44a4-be9f-38d61a8d9bc1",
+      "type": "http",
+      "documentation": "получение списка",
+      "method": "get",
+      "endpoint": "",
+      "responses": [
+        {
+          "uuid": "8e326126-c3a0-47ac-836b-1f770b9f71d2",
+          "body": "[{\"id\":1,\"title\":\"заглушка работает\",\"completed\":false,\"order\":null,\"url\":\"/1\"},{\"id\":74219,\"title\":\"Ура! Получилось!\",\"completed\":true,\"order\":null,\"url\":\"/74219\"},{\"id\":74221,\"title\":\"Ура!\",\"completed\":false,\"order\":null,\"url\":\"/74221\"},{\"id\":74206,\"title\":\"HomeWork\",\"completed\":false,\"order\":null,\"url\":\"/74206\"},{\"id\":74223,\"title\":\"111\",\"completed\":true,\"order\":null,\"url\":\"/74223\"},{\"id\":74201,\"title\":\"задача\",\"completed\":false,\"order\":null,\"url\":\"/74201\"}]",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        },
+        {
+          "uuid": "80fb44c3-42a7-4927-b528-77c142323b61",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [
+            {
+              "target": "header",
+              "modifier": "result",
+              "value": "empty list",
+              "invert": false,
+              "operator": "equals"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    },
+    {
+      "uuid": "649aaaff-8641-4178-b50f-5a11abb08d1a",
+      "type": "http",
+      "documentation": "создание задачи",
+      "method": "post",
+      "endpoint": "",
+      "responses": [
+        {
+          "uuid": "d18c0606-3bcf-4c4c-a901-034715d4eb9d",
+          "body": "{\"id\": \"{{faker 'random.numeric' 5}}\",\n   \"title\": \"{{faker 'commerce.product'}}\",\n    \"completed\": false,\n    \"order\": null,\n    \"url\": \"/{{faker 'random.numeric' 5}}\"\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true
+        },
+        {
+          "uuid": "d4f72a51-7017-497c-9a39-d4269990b087",
+          "body": "{\"message”:\"Недопустимое имя задачи\"}",
+          "latency": 0,
+          "statusCode": 500,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [
+            {
+              "target": "body",
+              "modifier": "title",
+              "value": "Ошибка",
+              "invert": false,
+              "operator": "equals"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false
+        }
+      ],
+      "enabled": true,
+      "responseMode": null
+    }
+  ],
+  "rootChildren": [
+    {
+      "type": "route",
+      "uuid": "90dae1fd-ac59-44a4-be9f-38d61a8d9bc1"
+    },
+    {
+      "type": "route",
+      "uuid": "649aaaff-8641-4178-b50f-5a11abb08d1a"
+    }
+  ],
+  "proxyMode": false,
+  "proxyHost": "",
+  "proxyRemovePrefix": false,
+  "tlsOptions": {
+    "enabled": false,
+    "type": "CERT",
+    "pfxPath": "",
+    "certPath": "",
+    "keyPath": "",
+    "caPath": "",
+    "passphrase": ""
+  },
+  "cors": true,
+  "headers": [
+    {
+      "key": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "proxyReqHeaders": [
+    {
+      "key": "",
+      "value": ""
+    }
+  ],
+  "proxyResHeaders": [
+    {
+      "key": "",
+      "value": ""
+    }
+  ],
+  "data": []
+}
