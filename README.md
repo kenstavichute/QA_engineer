@@ -127,5 +127,5 @@ __Что нужно было сделать__ :
 Получила практику по созданию таблиц SQL и написанию запросов для вывода информации из таблиц в `PostgreeSQL`   
    
 <div align="center">
-  <img hspace="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNudnpvenNkNWp6ZW56MGF5czd6eGh4ejV0bTIzdzQzdHhmbm91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ru74l3qykUOATb0Wmc/giphy.gif" width="200"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZuY2VlMWQwam1lM3JiN25rcTYxOGRyOHBpaGMxazB6bHo1bmFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNudnpvenNkNWp6ZW56MGF5czd6eGh4ejV0bTIzdzQzdHhmbm91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ru74l3qykUOATb0Wmc/giphy.gif" width="200"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZuY2VlMWQwam1lM3JiN25rcTYxOGRyOHBpaGMxazB6bHo1bmFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" width="150"/>
 </div>
