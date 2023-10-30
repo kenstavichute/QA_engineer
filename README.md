@@ -3,7 +3,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4NjRuMjF5YjA2OTZkcW13Mzh5bjVoYjJ5dHhuYmhoNWYzc21wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="380"/>
 </div>
+<div id="header" align="center">
+   
+`         Связаться со мной         `  
+   
+[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/elena_kenza) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/elena-kenstavichute/)    
+ <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc1bTViNDNvZ2hyM3RsbG1tamtraXVrYWdyNnZ2bWV0czFuN29sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4c1S0P0QPmmljOyqCS/giphy.gif" width="60">   
+</div>
 
+   
 ## Обо мне:
 Привет!  
 Меня зовут Елена, я начинающий тестировщик из Санкт-Петербурга <img height="20" src="https://github.com/kenstavichute/QA_engineer/assets/146355792/4e0ab703-6a3c-459b-9568-dd087620d7cf">   
@@ -115,14 +124,7 @@ __Что нужно было сделать__ :
 
  __Выводы по работе с проектом__   
 Получила практику по созданию таблиц SQL и написанию запросов для вывода информации из таблиц в `PostgreeSQL`   
-
+   
 <div id="header" align="center">
-  <img align="center" hspace="10" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc1bTViNDNvZ2hyM3RsbG1tamtraXVrYWdyNnZ2bWV0czFuN29sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4c1S0P0QPmmljOyqCS/giphy.gif" width="60">   
-
-   
-`         Связаться со мной         `  
-   
-[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/elena_kenza) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/elena-kenstavichute/)
-
+  <img hspace="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNudnpvenNkNWp6ZW56MGF5czd6eGh4ejV0bTIzdzQzdHhmbm91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ru74l3qykUOATb0Wmc/giphy.gif" width="210"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZuY2VlMWQwam1lM3JiN25rcTYxOGRyOHBpaGMxazB6bHo1bmFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" width="160"/>
 </div>
