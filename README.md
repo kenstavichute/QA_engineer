@@ -6,11 +6,12 @@
 <div id="header" align="center">
    
 `         Связаться со мной         `  
-   
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/elena-kenstavichute/) 
 [![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/elena_kenza) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/elena-kenstavichute/)    
- <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc1bTViNDNvZ2hyM3RsbG1tamtraXVrYWdyNnZ2bWV0czFuN29sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4c1S0P0QPmmljOyqCS/giphy.gif" width="60">   
-</div>
+  
+ <img align="left" hspace="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRsZTM3YjVoMmd5eXpscmd1cGRkdzRnNDNzbHJ5czloOXJzNml5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L5LRkP5bUDFiZee7w2/giphy.gif" width="100">   
+</div>   
 
    
 ## Обо мне:
