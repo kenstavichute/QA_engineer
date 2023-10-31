@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Портфолио: Инженер по тестированию </h1> </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4NjRuMjF5YjA2OTZkcW13Mzh5bjVoYjJ5dHhuYmhoNWYzc21wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4NjRuMjF5YjA2OTZkcW13Mzh5bjVoYjJ5dHhuYmhoNWYzc21wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
 </div>
 <div id="header" align="center">
    
