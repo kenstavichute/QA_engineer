@@ -8,8 +8,10 @@
 `         Связаться со мной         `  
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/elena-kenstavichute/) 
-[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/elena_kenza)  
- <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIyanJ6bm1xNDBkb2g5MTdiejQxaXpyZ2IzYnlmcGozbjBzOXFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GWYIr9KFkr8Yfv9j7j/giphy.gif" width="90">   
+[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/elena_kenza) 
+[![Telegram](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=maildotru&logoColor=%23FFCD00
+)](mailto:elena.kenza@yandex.ru)   
+ <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM4OG5oZHNka2N2YjNnNDl0ampzbTZlcnQ5dmwzZzdmNWxkeWo0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yw0ANzNmANtzEnYHgZ/source.gif" width="120">   
 </div>   
 
    
